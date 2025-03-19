@@ -1,0 +1,36 @@
+.contenedor {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: sans-serif; /* O la fuente que coincida con la imagen */
+}
+
+.columna {
+  font-size: 14px; /* Ajusta el tamaño de la fuente */
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 24px; /* Ajusta el tamaño de la fuente */
+  color: #333; /* O el color de la descripción en la imagen */
+  margin-bottom: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.autor {
+  font-size: 14px; /* Ajusta el tamaño de la fuente */
+  color: black; /* O el color del autor en la imagen */
+  margin-bottom: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.medio {
+  width: 70px;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+}
